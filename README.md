@@ -1,0 +1,1 @@
+CTRLGO helps users organise their day and talk to an AI companion. Users enter their responsibilities, receive a realistic daily routine, adjust their plans through conversation, track their progress, and earn playful rewards.
